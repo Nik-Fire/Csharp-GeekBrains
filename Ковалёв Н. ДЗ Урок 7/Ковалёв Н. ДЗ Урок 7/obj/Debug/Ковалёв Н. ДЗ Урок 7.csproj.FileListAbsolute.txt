@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв Н. ДЗ Урок 7.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\bin\Debug\Ковалёв_Н.ДЗ_Урок_7.exe.config
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\bin\Debug\Ковалёв_Н.ДЗ_Урок_7.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\bin\Debug\Ковалёв_Н.ДЗ_Урок_7.pdb
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв_Н.ДЗ_Урок_7.Form1.resources
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв_Н.ДЗ_Урок_7.Properties.Resources.resources
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв Н. ДЗ Урок 7.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв Н. ДЗ Урок 7.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв_Н.ДЗ_Урок_7.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв_Н.ДЗ_Урок_7.pdb
+C:\Users\1\Desktop\Programming\Курс C# Уровень 1\Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\Ковалёв Н. ДЗ Урок 7\obj\Debug\Ковалёв_Н.ДЗ_Урок_7.Form2.resources
