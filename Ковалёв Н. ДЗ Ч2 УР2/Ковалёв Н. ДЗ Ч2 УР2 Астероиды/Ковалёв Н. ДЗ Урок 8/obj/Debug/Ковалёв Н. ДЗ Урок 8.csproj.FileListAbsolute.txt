@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв Н. ДЗ Урок 8.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв Н. ДЗ Урок 8.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.exe.config
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.pdb
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв_Н.ДЗ_Урок_8.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 1\Ковалёв Н. ДЗ Урок 8\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв_Н.ДЗ_Урок_8.pdb
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.exe.config
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\bin\Debug\Ковалёв_Н.ДЗ_Урок_8.pdb
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв Н. ДЗ Урок 8.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв Н. ДЗ Урок 8.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв_Н.ДЗ_Урок_8.exe
+C:\Users\1\Desktop\Programming\Курс C# Уровень 2\Урок 2\Ковалёв Н. ДЗ Ч2 УР2 Астероиды\Ковалёв Н. ДЗ Урок 8\obj\Debug\Ковалёв_Н.ДЗ_Урок_8.pdb
